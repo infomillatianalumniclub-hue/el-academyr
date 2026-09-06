@@ -1,0 +1,6 @@
+{
+  "name": "E-Lawyers Academy",
+  "description": "Comprehensive Law, Tax & Compliance Education Ecosystem & LMS in Bangladesh with AI Legal Assistant, Instructor Dashboard, Student Portal, Admin Panel, and Local Gateway Payments",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
